@@ -1,4 +1,4 @@
-# Final Project: A Wordle Game! (11/2/2022)
+# Final Project: A Wordle Game! (11/18/2022)
 
 import random
 
